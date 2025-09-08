@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=6000&lines=Hello!+👋;+I'm+Muhammad+Ishmamul+Hoque!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh BAU</h3>
+<h3 align="center">A passionate software developer from Bangladesh, BAU</h3>
 
 <br/>
 
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,c++,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flask" /><br>
 </div>
 
 <br/>
